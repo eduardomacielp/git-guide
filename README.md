@@ -62,8 +62,5 @@ git lg
 ## Contribuições
 Sugestões e melhorias são bem-vindas via Pull Request ou Issue.
 
-## Licença
-(Sem licença definida ainda. Se desejar, podemos adicionar MIT em um próximo commit.)
-
 ---
 Aproveite! Abra o `GIT-GUIDE.md` para o conteúdo completo.
